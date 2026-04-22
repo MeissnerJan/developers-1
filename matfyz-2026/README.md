@@ -8,7 +8,7 @@ Naskenovali jste QR kód na našem stánku – super. Tady najdete vše, co jsme
 
 ## 🐛 BugHunter – hra z našeho stánku
 
-Na stánku jste možná hráli **BugHunter** – hru, kde scrollujete přes GitHub pull request a lovíte bugy. Nejrychleší čas vyhrává .
+Na stánku jste možná hráli **BugHunter** – hru, kde scrollujete přes GitHub pull request a lovíte bugy. Nejrychlejší čas vyhrává.
 
 👉 **[Zahrajte si: ebrithilnogare.github.io/BugHunter](https://ebrithilnogare.github.io/BugHunter/)**
 
