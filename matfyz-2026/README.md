@@ -43,7 +43,7 @@ O pár let později je **CPTO (Chief Product & Technology Officer)** celé firmy
 Jeho kariérní cesta v Mews: softwarový inženýr → staff engineer → team manager → director → VP of Engineering → CTO → CPTO.
 
 **Pepovy rady pro studenty:**
-> *„Začněte pracovat již při studiu, ale alespoň nějaký stupeň studia dodělejte – vysoká škola vás naučí přemýšlet a hledat řešení. Pro firmy je nejdůležitější, zda se k nim 'hodíte' a zda máte chuť se učit, konkrétní znalosti jsou až na třetím místě. Proto se nebojte a zkuste to."*
+> *„Začněte pracovat již při studiu, ale alespoň nějaký stupeň studia dodělejte – vysoká škola vás naučí přemýšlet a hledat řešení. Pro firmy je nejdůležitější, zda se k nim 'hodíte' a zda máte chuť se učit, konkrétní znalosti jsou až na třetím místě. Proto se nebojte a zkuste to.“*
 
 Více o Pepovi:
 - [Forbes: Josef Starýchfojtů – Forbes 30 pod 30 (2025)](https://forbes.cz/lists/forbes-30-pod-30-2025/josef-starychfojtu/)
