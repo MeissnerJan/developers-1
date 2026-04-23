@@ -4,7 +4,7 @@
 
 Naskenovali jste QR kód na našem stánku – super. Tady najdete vše, co jsme nestihli říct osobně.
 
-Pokud nechcete hrát hru, nebo jste se k ní nedostali, ale chcete zůstat v kontaktu, dejte nám svůj mail [tady](https://forms.office.com/Pages/ResponsePage.aspx?id=wjfbr_ETeEq5HoV0msjoB9j-I_FWGz9Bg9rBZUMYRNRUNkxLQU0zNVBYRjJHTE9WOUdENkdVUEQ5Ti4u). 
+Pokud nechcete hrát hru, nebo jste se k ní nedostali, ale chcete zůstat v kontaktu, dejte nám svůj mail [tady](https://forms.office.com/Pages/ResponsePage.aspx?id=wjfbr_ETeEq5HoV0msjoB9j-I_FWGz9Bg9rBZUMYRNRUNkxLQU0zNVBYRjJHTE9WOUdENkdVUEQ5Ti4u).
 
 ---
 
@@ -38,7 +38,7 @@ Dnes Mews zaměstnává přes **40 absolventů a studentů Matfyzu** a jsme stra
 
 ### Pepa Starýchfojtů – z Dnů firem na Matfyzu až po CPTO
 
-Pepa e živým důkazem toho, co se dá stihnout, když začnete brzy. V prvním ročníku bakaláře šel na Dny firem – a odešel s první prací v Mews jako řadový vývojář.
+Pepa je živým důkazem toho, co se dá stihnout, když začnete brzy. V prvním ročníku bakaláře šel na Dny firem – a odešel s první prací v Mews jako řadový vývojář.
 
 O pár let později je **CPTO (Chief Product & Technology Officer)** celé firmy a v roce 2025 se dostal na seznam **Forbes 30 pod 30**.
 
